@@ -1,5 +1,6 @@
 import numpy.lib.format
 
+# this is a board
 big_board = """
                ||               ||               
                ||               ||               
